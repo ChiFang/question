@@ -33,6 +33,6 @@ __global__ void CalCostSmoothR_1(const int a_RangeUpScale, const int *a_CostData
 		}
 #endif
 
-        // use Buff to do something
+        	// use Buff to do something
 	}
 }
