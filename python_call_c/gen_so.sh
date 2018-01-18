@@ -1,0 +1,1 @@
+gcc -fPIC -shared -o ctest.so ctest.c
